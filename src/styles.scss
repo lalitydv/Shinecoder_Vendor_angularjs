@@ -1,0 +1,118 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.mat-form-field-wrapper {
+    padding-bottom: 0.34375em;
+}
+
+::ng-deep {
+    .mat-checkbox-checked.mat-accent .mat-checkbox-background {
+        background-color: #8A2080 !important;
+    }
+    .mat-form-field-appearance-outline {
+        padding: 1em 0 1em 0;
+        font-size: 12px;
+    }
+
+    
+  }
+  tr.mat-row {
+    height: 48px !important;
+    line-height: 3rem !important;
+}
+  .login-card {
+    border: 2px solid #8A2080;
+    border-top: 15px solid #8A2080;
+    border-radius: 10px; 
+    
+    a{
+        color: #8A2080 !important;
+    }
+}
+.button-log{
+    background-color: #8A2080;
+    color: #fff;
+    font-size: 12px;
+}
+
+h2.header-color{
+    color: #8A2080 !important;
+}
+
+.passwordImg img {
+    max-height: 75vh;
+}
+span.span-color {
+    color: #8a2080;
+}
+
+.success-button.mat-raised-button {
+    background: #3BB77E;
+    color: #ffff;
+}
+
+.cancel-button.mat-raised-button {
+    background: #D70000;
+    color: #ffff;
+}
+
+/* You can add global styles to this file, and also import other style files */
+
+.error {
+    font-size: small;
+    font-weight: bolder;
+    color: red
+  }
+  
+  .table-icon {
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
+  
+  .table-icon:hover {
+    filter: brightness(70%);
+  }
+  
+  .checkbox {
+    cursor: pointer;
+  }
+  
+  .sortBy {
+    cursor: pointer;
+  }
+  
+  .model-btn-position{
+    justify-content: center !important;
+  }
+  
+  .modal-backdrop {
+    z-index: 1040 !important;
+  }
+  .modal-content {
+    margin: 2px auto;
+    z-index: 1100 !important;
+  }
+  
+  .profile_img{
+    width: 108px;
+    height: 108px;
+    border-radius: 50%;
+    border: 2px solid #404700cc;
+  }
+  
+  .form-check-input.checkbox {
+  position: relative;
+  margin-top: 6px;
+  }
+  
+  .content-wrapper{
+    background: #fff;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .ref_link_count_box{
+      flex-direction: column-reverse;
+    }
+  }

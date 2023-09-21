@@ -1,0 +1,24 @@
+<svg width="38" height="38" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_1_793)">
+<circle cx="19" cy="19" r="18" fill="#EFEFEF"/>
+</g>
+<circle cx="19" cy="19" r="13" fill="#7B7B7B"/>
+<mask id="mask0_1_793" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="7" y="7" width="24" height="24">
+<circle cx="19" cy="19" r="11.5" fill="#D9D9D9" stroke="black"/>
+</mask>
+<g mask="url(#mask0_1_793)">
+<path d="M-3 5H41.1818V32H-3V5Z" fill="#5C9E31"/>
+<path d="M-3 5H41.1818V14.8182H-3V5Z" fill="#E27022"/>
+<path d="M-3 14.8182H41.1818V22.1819H-3V14.8182Z" fill="white"/>
+<path d="M19.2719 17.823L20.3176 16.3748L19.5861 18.0046L21.2159 17.2732L19.7677 18.3188L21.5448 18.5004L19.7677 18.6821L21.2159 19.7277L19.5861 18.9963L20.3176 20.6261L19.2719 19.1779L19.0903 20.955L18.9087 19.1779L17.863 20.6261L18.5945 18.9963L16.9647 19.7277L18.4128 18.6821L16.6357 18.5004L18.4128 18.3188L16.9647 17.2732L18.5945 18.0046L17.863 16.3748L18.9087 17.823L19.0903 16.0459L19.2719 17.823Z" stroke="#1E50A0" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19.09 22.182C21.1234 22.182 22.7718 20.5336 22.7718 18.5002C22.7718 16.4668 21.1234 14.8184 19.09 14.8184C17.0566 14.8184 15.4082 16.4668 15.4082 18.5002C15.4082 20.5336 17.0566 22.182 19.09 22.182Z" stroke="#1E50A0" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M-3 5H41.1818V32H-3V5Z" stroke="#7B7B7B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<filter id="filter0_f_1_793" x="0" y="0" width="38" height="38" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="0.5" result="effect1_foregroundBlur_1_793"/>
+</filter>
+</defs>
+</svg>
